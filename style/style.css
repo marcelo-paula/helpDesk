@@ -222,7 +222,7 @@ table tr td{
 .conteudoPrincipal .dados .conteudo .andamentoOS,
 .conteudoPrincipal .dados .conteudo .finalizarOS{
     border-radius: 8px;
-    padding: 5px;
+    padding: 5px; 
     border: 1px solid black;
     width: 150px !important;
     display: inline-block;
